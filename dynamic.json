@@ -1,0 +1,45 @@
+{
+    "profile":{
+        "img":"Shield.png",
+        "name":"niharika",
+        "roll":"516",
+        "place":"rajahmundry"
+    },
+    "career":{
+        "info":"to improve my thoughts by earning knowledge"
+    },
+    "education":[
+        {
+          "sno":"1",
+          "degree":"b.tech",
+          "institute":"pragati engineering college",
+          "percentage":"85%",
+          "year":"2021"
+        },
+        {
+            "sno":"2",
+          "degree":"intermediate",
+          "institute":"NRI",
+          "percentage":"98%",
+          "year":"2017"
+        },
+        {
+            "sno":"3",
+            "degree":"ssc",
+            "institute":"bhashyam",
+            "percentage":"92%",
+            "year":"2015"
+        }
+    ],
+    "language":[
+        {
+            "lang":"english"
+        },
+        {
+            "lang":"telugu"
+        },
+        {
+            "lang":"hindi"
+        }
+    ]
+}

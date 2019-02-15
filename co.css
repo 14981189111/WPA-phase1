@@ -1,0 +1,33 @@
+body{
+	background:green;
+}
+.maindiv{
+	background: pink;
+	display:6%;
+	padding: 2;
+	justify-content: space-around;
+	margin:10%;
+	border-radius: 4%;
+}
+.leftdiv{
+	background: bisque;
+	margin:50%;
+	width:25%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 4px 4px 4px 4px;
+}
+.rightdiv{
+	background: orange;
+	margin: 10%;
+	border-radius: 10%;
+	padding: 2%;
+	box-shadow: 4px 4px 4px 4px;
+	width:15%;
+}
+img{
+	border-radius: 30%;
+	margin: 50%;
+	width:40%;
+	height:50%;
+}

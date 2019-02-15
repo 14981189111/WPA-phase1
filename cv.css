@@ -1,0 +1,30 @@
+body{
+	background:#92F5DC;
+}
+.maindiv{
+	background:pink;
+	margin:5%;
+	justify-content: space-around;
+	display: flex;
+}
+.leftdiv{
+	background:green;
+	height: 25%;
+	width:25%;
+	text-align: center;
+	border-radius: 10%
+	margin:4%;
+	box-shadow: 1px 1px 1px 1px;
+}
+.rightdiv{
+	background:yellow;
+	height:500%;
+	width:50%;
+	text-align: left;
+	border-radius:5%;
+	table-layout: center;
+	margin: 10%;
+	box-shadow: 4px 4px 4px 4px;
+	
+padding: 10%
+}
